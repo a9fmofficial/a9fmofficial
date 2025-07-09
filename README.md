@@ -11,7 +11,7 @@
 > ```
 
 ### Profile Viewers
-<img align="center" src="https://profile-counter.glitch.me/{a9fm}/count.svg"/></p> 
+![](https://komarev.com/ghpvc/?username=a9fmofficial&style=for-the-badge)
 
 ### Now playing
 <img align="center" src="https://badges.lastfm.workers.dev/last-played?user=a9fmTop&style=for-the-badge&cacheSeconds=180"/></p> 
